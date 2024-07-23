@@ -3,6 +3,6 @@
 ## NIce One
 
 
-## SS
+## ScreenShot
 
 <img title="a title" alt="Alt text" src="/image.png">
